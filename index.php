@@ -1,7 +1,7 @@
 <?php
 
     require_once "config.php";
-
+    require_once "helpers/general_helpers.php";
 
     require_once "includes/header.php";
 
